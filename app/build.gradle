@@ -81,5 +81,5 @@ dependencies {
     androidTestImplementation "com.android.support.test:runner:1.0.2"
     androidTestImplementation "com.android.support.test:rules:1.0.2"
     androidTestImplementation "org.mockito:mockito-android:2.23.0"
-
+    implementation 'gun0912.ted:tedpermission:2.2.3'
 }
